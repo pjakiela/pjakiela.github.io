@@ -2,6 +2,9 @@
 
 You can use the [editor on GitHub](https://github.com/pjakiela/pjakiela.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
+[Recipes](recipes.html)
+[Dal Makhani](DAL.html)
+
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
@@ -25,6 +28,7 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
