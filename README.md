@@ -4,7 +4,7 @@ I am an Associate Professor in the [Economics Department](https://econ.williams.
 
 <br>
 
-[Open Letter to the American Economic Association](https://pjakiela.github.io/AEA-open-letter-women-2022-06-24.pdf).  If you wish to add your signature to the letter, please [use this link](https://docs.google.com/forms/d/e/1FAIpQLScfX7MchpfLfUYGMDPAAJb4tSNOY67uXPO493AHlPYD4UDJdQ/viewform?usp=sf_link).
+[Open Letter to the American Economic Association](AEA-open-letter-women-2022-06-24.pdf).  If you wish to add your signature to the letter, please [use this link](https://docs.google.com/forms/d/e/1FAIpQLScfX7MchpfLfUYGMDPAAJb4tSNOY67uXPO493AHlPYD4UDJdQ/viewform?usp=sf_link).
 
 <br>
 
