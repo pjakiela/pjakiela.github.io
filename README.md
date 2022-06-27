@@ -4,7 +4,13 @@ I am an Associate Professor in the [Economics Department](https://econ.williams.
 
 <br>
 
-[Open Letter to the American Economic Association](AEA-open-letter-women-2022-06-24.pdf).  If you wish to add your signature to the letter, please [use this link](https://docs.google.com/forms/d/e/1FAIpQLScfX7MchpfLfUYGMDPAAJb4tSNOY67uXPO493AHlPYD4UDJdQ/viewform?usp=sf_link).
+## Open Letter to the American Economic Association Regarding the Location of the Annual Meetings
+
+To protect the health and wellbeing of all AEA members, we encourage the Executive Committee to relocate the 2023 and 2024 meetings, and to commit to holding future meetings in states where women’s rights to necessary pregnancy care are protected. 
+
+The [AEA bylaws](https://www.aeaweb.org/about-aea/bylaws) state that our organization “will take no partisan attitude, nor will it commit its members to any position on practical economic questions.” However, the health and human rights of pregnant AEA members transcend partisanship.   
+
+The original draft of our [Open Letter to the American Economic Association](AEA-open-letter-women-2022-06-24.pdf) is available here.  The version with 933 signatures, which we shared with the Executive Committee, is available [here](AEA-open-letter-022-06-27.pdf).  We are still collecting additional signatures!  If you wish to add your signature to the letter, please [use this link](https://docs.google.com/forms/d/e/1FAIpQLScfX7MchpfLfUYGMDPAAJb4tSNOY67uXPO493AHlPYD4UDJdQ/viewform?usp=sf_link).
 
 <br>
 
