@@ -4,7 +4,7 @@ I am an Associate Professor in the [Economics Department](https://econ.williams.
 
 <br>
 
-## Open Letter to the American Economic Association Regarding the Location of the Annual Meetings
+## Open Letter to the Executive Committee of the American Economic Association Regarding the Location of the Annual Meetings
 
 To protect the health and wellbeing of all AEA members, we encourage the Executive Committee to relocate the 2023 and 2024 meetings, and to commit to holding future meetings in states where women’s rights to necessary pregnancy care are protected. 
 
