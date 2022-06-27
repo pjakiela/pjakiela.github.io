@@ -4,9 +4,9 @@ I am an Associate Professor in the [Economics Department](https://econ.williams.
 
 <br>
 
-## Open Letter to the Executive Committee of the American Economic Association Regarding the Location of the Annual Meetings
+## Open Letter to the AEA
 
-To protect the health and wellbeing of all AEA members, we encourage the Executive Committee to relocate the 2023 and 2024 meetings, and to commit to holding future meetings in states where women’s rights to necessary pregnancy care are protected. 
+To protect the health and wellbeing of all members of the American Economic Association, we encourage the Executive Committee to relocate the 2023 and 2024 meetings, and to commit to holding future meetings in states where women’s rights to necessary pregnancy care are protected. 
 
 The [AEA bylaws](https://www.aeaweb.org/about-aea/bylaws) state that our organization “will take no partisan attitude, nor will it commit its members to any position on practical economic questions.” However, the health and human rights of pregnant AEA members transcend partisanship.   
 
