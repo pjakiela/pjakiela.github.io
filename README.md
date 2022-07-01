@@ -10,7 +10,7 @@ To protect the health and wellbeing of all members of the American Economic Asso
 
 The [AEA bylaws](https://www.aeaweb.org/about-aea/bylaws) state that our organization “will take no partisan attitude, nor will it commit its members to any position on practical economic questions.” However, the health and human rights of pregnant AEA members transcend partisanship.   
 
-The original draft of our [Open Letter to the American Economic Association](AEA-open-letter-women-2022-06-24.pdf) is available here.  We shared this letter together (with the first 933 signatures) with the AEA Executive Committee on June 27, 2022.  The current version with 1,063 signatures is available [here](AEA-open-letter-2022-06-28.pdf).  We are still collecting additional signatures!  If you wish to add your signature to the letter, please [use this link](https://docs.google.com/forms/d/e/1FAIpQLScfX7MchpfLfUYGMDPAAJb4tSNOY67uXPO493AHlPYD4UDJdQ/viewform?usp=sf_link).
+The original draft of our [Open Letter to the American Economic Association](AEA-open-letter-women-2022-06-24.pdf) is available here.  We shared this letter together (with the first 933 signatures) with the AEA Executive Committee on June 27, 2022.  The current version with 1,104 signatures is available [here](AEA-open-letter-2022-07-01.pdf).  We are still collecting additional signatures!  If you wish to add your signature to the letter, please [use this link](https://docs.google.com/forms/d/e/1FAIpQLScfX7MchpfLfUYGMDPAAJb4tSNOY67uXPO493AHlPYD4UDJdQ/viewform?usp=sf_link).
 
 <br>
 
