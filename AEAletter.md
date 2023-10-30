@@ -1,4 +1,4 @@
-## Open Letter to the AEA
+# Open Letter to the AEA
 
 To protect the health and wellbeing of all members of the American Economic Association, a large group of professional economists encouraged the Executive Committee to relocate the 2023 and 2024 Annual Meetings, and to commit to holding future meetings in states where women’s rights to necessary pregnancy care are protected.  
 
