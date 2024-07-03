@@ -23,8 +23,7 @@ _Joint with Lillian Bates and Oliver Hall_
 <br>
 
 # Find Me
-Email: [pamela.jakiela@williams.edu](mailto:pamela.jakiela@williams.edu)  
-Twitter:  [@pjakiela](https://twitter.com/pjakiela?lang=en)  
+Email: [pj5@williams.edu](mailto:pamela.jakiela@williams.edu)   
 <a href="https://scholar.google.com/citations?user=SPkk2P8AAAAJ">Google Scholar</a>
 
 
