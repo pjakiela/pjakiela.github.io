@@ -6,7 +6,8 @@ I am a Professor of Economics and Associate Chair of the [Economics Department](
 
 # New Working Papers
 
-[Preprimary Education and Early Childhood Development: Evidence from Government Schools in Rural Kenya](https://www.cgdev.org/publication/preprimary-education-and-early-childhood-development-evidence-government-schools-rural)  
+[Preprimary Education and Early Childhood Development: Evidence from Government Schools in Rural Kenya](https://pjakiela.github.io/research/preschool-JDE-2024-07-03.pdf)  
+_Journal of Development Economics, forthcoming_  
 _Joint with Owen Ozier, Lia C.H. Fernald, and Heather A. Knauer_  
 
 [Understanding the Impacts of Paid Maternity Leave on Women’s Labor Market Outcomes](https://pjakiela.github.io/research/BatesHallJakiela-PaidLeave-2023-10-30.pdf)  
