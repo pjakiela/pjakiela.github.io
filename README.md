@@ -4,6 +4,14 @@ I am a Professor of Economics and Associate Chair of the [Economics Department](
 
 <br>
 
+# Current Teaching
+
+[ECON 370:  Data Science for Economics Analysis](https://pjakiela.github.io/ECON370)   
+
+[ECON 460:  Women, Work, and the World Economy](https://pjakiela.github.io/ECON460)   
+
+<br>
+
 # New Working Papers
 
 [Preprimary Education and Early Childhood Development: Evidence from Government Schools in Rural Kenya](https://pjakiela.github.io/research/preschool-JDE-2024-07-03.pdf)  
