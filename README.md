@@ -6,20 +6,17 @@ I am a Professor of Economics and Associate Chair of the [Economics Department](
 
 # Current Teaching
 
-[ECON 370:  Data Science for Economics Analysis](https://pjakiela.github.io/ECON370)   
+[ECON 523:  Program Evaluation for International Development](https://pjakiela.github.io/ECON523)   
 
-[ECON 460:  Women, Work, and the World Economy](https://pjakiela.github.io/ECON460)   
+Now with empirical exercises in [R](https://pjakiela.github.io/ECON523/exercises/R-exercises.html) and [Python](https://pjakiela.github.io/ECON523/exercises/python.html) (in addition to [Stata](https://pjakiela.github.io/ECON523/exercises/index.html))
 
 <br>
 
 # New Working Papers
 
-[Preprimary Education and Early Childhood Development: Evidence from Government Schools in Rural Kenya](https://pjakiela.github.io/research/preschool-JDE-2024-07-03.pdf)  
-_Journal of Development Economics, forthcoming_  
-_Joint with Owen Ozier, Lia C.H. Fernald, and Heather A. Knauer_  
+[The Software Behind the Stats: A Student Exploration of Software Trends Across Disciplines](http://arxiv.org/abs/2504.06507)  
 
-[Understanding the Impacts of Paid Maternity Leave on Women’s Labor Market Outcomes](https://pjakiela.github.io/research/BatesHallJakiela-PaidLeave-2023-10-30.pdf)  
-_Joint with Lillian Bates and Oliver Hall_  
+_Joint with Elizabeth Upton, Xizhen Cai, Owen Ozier, Shyam Raman_
 
 <br>
 
