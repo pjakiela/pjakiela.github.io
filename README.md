@@ -1,6 +1,6 @@
 # About Me
 
-I am a Professor of Economics and Associate Chair of the [Economics Department](https://econ.williams.edu/) at [Williams College](https://www.williams.edu/). I am also a Co-Chair of the Gender Sector at the [Abdul Latif Jameel Poverty Action Lab](https://www.povertyactionlab.org/) and a Non-Resident Fellow at the [Center for Global Development](https://www.cgdev.org/).  I am affiliated with [BREAD](http://ibread.org/bread/), [IPA](http://www.poverty-action.org/), and [IZA](https://www.iza.org/person/7796/pamela-jakiela).  
+I am a Professor of Economics and Associate Chair of the [Economics Department](https://econ.williams.edu/) at [Williams College](https://www.williams.edu/). I am also Co-Chair of the [Gender Sector](https://www.povertyactionlab.org/sector/gender) at the [Abdul Latif Jameel Poverty Action Lab](https://www.povertyactionlab.org/) and a Non-Resident Fellow at the [Center for Global Development](https://www.cgdev.org/).  I am affiliated with [BREAD](http://ibread.org/bread/), [IPA](http://www.poverty-action.org/), and [IZA](https://www.iza.org/person/7796/pamela-jakiela).  
 
 <br>
 
