@@ -1,6 +1,6 @@
 # About Me
 
-I am a Professor of Economics and Associate Chair of the [Economics Department](https://econ.williams.edu/) at [Williams College](https://www.williams.edu/). I am also an Associate Editor at [Economic Development and Cultural Change](https://www.journals.uchicago.edu/toc/edcc/current) and a Non-Resident Fellow at the [Center for Global Development](https://www.cgdev.org/).  I am affiliated with [BREAD](http://ibread.org/bread/), [IPA](http://www.poverty-action.org/), [IZA](https://www.iza.org/person/7796/pamela-jakiela), and [J-PAL](https://www.povertyactionlab.org/person/jakiela).  
+I am a Professor of Economics and Associate Chair of the [Economics Department](https://econ.williams.edu/) at [Williams College](https://www.williams.edu/). I am also a Co-Chair of the Gender Sector at the [Abdul Latif Jameel Poverty Action Lab](https://www.povertyactionlab.org/) and a Non-Resident Fellow at the [Center for Global Development](https://www.cgdev.org/).  I am affiliated with [BREAD](http://ibread.org/bread/), [IPA](http://www.poverty-action.org/), and [IZA](https://www.iza.org/person/7796/pamela-jakiela).  
 
 <br>
 
@@ -8,7 +8,7 @@ I am a Professor of Economics and Associate Chair of the [Economics Department](
 
 [ECON 523:  Program Evaluation for International Development](https://pjakiela.github.io/ECON523)   
 
-Now with empirical exercises in [R](https://pjakiela.github.io/ECON523/exercises/R-exercises.html) and [Python](https://pjakiela.github.io/ECON523/exercises/python.html) (in addition to [Stata](https://pjakiela.github.io/ECON523/exercises/index.html))
+[ECON 204:  Global Poverty and Economic Development](https://pjakiela.github.io/ECON204)   
 
 <br>
 
