@@ -14,7 +14,7 @@ I am a Professor of Economics and Associate Chair of the [Economics Department](
 
 # New Working Papers
 
-**[Great Expectations: Responses to Current and Future Transfers for Low-Income Individuals](AGJK_Expectations_20260201.pdf)**   
+**[Great Expectations: Responses to Current and Future Transfers for Low-Income Individuals](https://www.nber.org/papers/w34857)**   
 _Joint with Achyuta Adhvaryu, Jean-Francois Gauthier, and Dean Karlan_  
 
 **[The Software Behind the Stats: A Student Exploration of Software Trends Across Disciplines](Software_JSDSE_R1.pdf)**   
