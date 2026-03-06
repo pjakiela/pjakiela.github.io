@@ -17,10 +17,10 @@ I am a Professor of Economics and Associate Chair of the [Economics Department](
 **[Great Expectations: Responses to Current and Future Transfers for Low-Income Individuals](https://www.nber.org/papers/w34857)**   
 _Joint with Achyuta Adhvaryu, Jean-Francois Gauthier, and Dean Karlan_  
 
-**[The Software Behind the Stats: A Student Exploration of Software Trends Across Disciplines](Software_JSDSE_R1.pdf)**   
+**[The Software Behind the Stats: A Student Exploration of Software Trends Across Disciplines](research/Software_JSDSE_R1.pdf)**   
 _Joint with Elizabeth Upton, Xizhen Cai, Owen Ozier, and Shyam Raman_  
 
-**[Understanding the Impacts of Paid Maternity Leave on Women's Labor Market Outcomes](BatesHallJakiela_Maternity_Leave_R2.pdf)**   
+**[Understanding the Impacts of Paid Maternity Leave on Women's Labor Market Outcomes](research/BatesHallJakiela_Maternity_Leave_R2.pdf)**   
 _Joint with Lillian Bates and Oliver Hall_  
 
 <br>
