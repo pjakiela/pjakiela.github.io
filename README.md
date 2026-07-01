@@ -1,6 +1,6 @@
 # About Me
 
-I am the Orrin Sage Professor of Political Economy and the Associate Chair of the [Economics Department](https://econ.williams.edu/) at [Williams College](https://www.williams.edu/). I also serve as Co-Chair of the [Gender Sector](https://www.povertyactionlab.org/sector/gender) at the [Abdul Latif Jameel Poverty Action Lab](https://www.povertyactionlab.org/). I am a Non-Resident Fellow at the [Center for Global Development](https://www.cgdev.org/), a [BREAD](http://ibread.org/bread/) Fellow, and a Research Fellow at [IZA](https://www.iza.org/person/7796/pamela-jakiela).  
+I am the Orrin Sage Professor of Political Economy and Associate Chair of the [Economics Department](https://econ.williams.edu/) at [Williams College](https://www.williams.edu/). I also serve as Co-Chair of the [Gender Sector](https://www.povertyactionlab.org/sector/gender) at the [Abdul Latif Jameel Poverty Action Lab](https://www.povertyactionlab.org/). I am a Non-Resident Fellow at the [Center for Global Development](https://www.cgdev.org/), a [BREAD](http://ibread.org/bread/) Fellow, and a Research Fellow at [IZA](https://www.iza.org/person/7796/pamela-jakiela).  
 
 <br>
 
