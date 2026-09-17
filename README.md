@@ -6,19 +6,17 @@ I am the Orrin Sage Professor of Political Economy and Associate Chair of the [E
 
 # Current Teaching
 
-[ECON 523:  Program Evaluation for International Development](https://pjakiela.github.io/ECON523)   
-
-[ECON 204:  Global Poverty and Economic Development](https://pjakiela.github.io/ECON204)   
+[ECON 370:  Data Science for Economic Analysis](https://pjakiela.github.io/ECON370)   
 
 <br>
 
 # New & Updated Working Papers
 
-**[Understanding the Impacts of Paid Maternity Leave on Women's Labor Market Outcomes](research/BatesHallJakiela_Maternity_Leave_R3.pdf)**  
+**[Understanding the Impacts of Paid Maternity Leave on Women's Labor Market Outcomes](research/Maternity_Leave_R3.pdf)**  
 _Review of Economics of the Household, forthcoming_  
 _Joint with Lillian Bates and Oliver Hall_  
 
-**[The Software Behind the Stats: A Student Exploration of Software Trends in Economics, Political Science, and Statistics](https://owenozier.github.io/publication/2026-08-31-software-stats.pdf)**   
+**[The Software Behind the Stats: A Student Exploration of Software Trends in Economics, Political Science, and Statistics](https://owenozier.github.io/publication/2026-08-31-software-stats)**   
 _Journal of Statistics and Data Science Education, forthcoming_  
 _Joint with Elizabeth Upton, Xizhen Cai, Owen Ozier, and Shyam Raman_  
 
